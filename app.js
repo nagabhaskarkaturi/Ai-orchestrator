@@ -1,3 +1,4 @@
+⁠console.log("App.js is loading!");⁠
 const { useState } = React;
 
 const Orchestrator = () => {
